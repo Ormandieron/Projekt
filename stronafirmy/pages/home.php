@@ -15,7 +15,9 @@
 						
 					</header>	
 </div>
-			
+			<div class="logob">
+				<img src="media/img/budowlaniec.png">
+			</div>
 				
 			
 				
@@ -23,13 +25,13 @@
 				
 					<header>
 					
-						<h1>Wykończenia i remonty to nasza pasja</h1>
-						<p>Robimy to od zawsze i przykładamy wielką wagę do detali.</p>
+						<h2>Wykończenia i remonty to nasza pasja</h2>
+						
 						
 					</header>
 					
 					
-					<i><class="blackbutton"><a href="index.php?page=kontakt"> Nawiązanie współpracy</a></i>
+					<div class="blackbutton"> <a style="text-decoration:none;color:#ffffff" href="index.php?page=kontakt"> Nawiązanie współpracy</a></div>
 				
 				</div>
 				
