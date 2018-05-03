@@ -30,10 +30,10 @@
 						kom. 682.872.065<br />
 						email: biuro@indoom.cc.pl<br />
 						</p>
-						<form id="formularzKontaktowy" class="form-horizontal" action="mail.php" method="post">
+						<form id="formularzKontaktowy" class="form-horizontal" action="pages/mail.php" method="post">
 
   <div class="control-group">
-    <label class="control-label" for="inputEmail">Email</label>
+    <label class="control-label" for="inputEmail">Twoj email</label>
     <div class="controls">
       <input type="text" name="email" class="input-xlarge" id="inputEmail" placeholder="Email">
     </div>
